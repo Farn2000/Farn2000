@@ -13,42 +13,39 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40px" widght="40px"/>      
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/python-original.svg" height="40px" widght="40px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40px" widght="40px"/>      
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/react-original.svg" height="40px" widght="40px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40px" widght="40px"/>      
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/typescript-original.svg" height="40px" widght="40px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40px" widght="40px"/>      
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/vitejs-original.svg" height="40px" widght="40px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40px" widght="40px"/>      
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/tailwindcss-original.svg" height="40px" widght="40px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40px" widght="40px"/>      
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/nodejs-original.svg" height="40px" widght="40px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40px" widght="40px"/>      
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/nextjs-original.svg" height="40px" widght="40px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40px" widght="40px"/>      
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/lua-original.svg" height="40px" widght="40px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40px" widght="40px"/>      
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/-original.svg" height="40px" widght="40px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40px" widght="40px"/>      
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/hrml5-original.svg" height="40px" widght="40px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40px" widght="40px"/>      
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/css3-original.svg" height="40px" widght="40px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40px" widght="40px"/>      
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/csharp-original.svg" height="40px" widght="40px"/>      
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/c-original.svg" height="40px" widght="40px"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40px" widght="40px"/>      
   </a>
 </p>
