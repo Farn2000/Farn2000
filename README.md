@@ -4,7 +4,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://cmake.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" height="40px" widght="40px"/>      
   </a>
   <a href="https://cmake.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />      
